@@ -1,27 +1,43 @@
+
 🔥 Azure Databricks End-to-End Data Engineering Project
 📚 Overview
+
+
 This project demonstrates a complete real-time data engineering pipeline using Azure Databricks, Delta Lake, and PySpark. It covers end-to-end data transformation scenarios including Slowly Changing Dimensions (SCD), Star Schema Modeling, and real-time streaming — ideal for both learning and showcasing production-grade pipelines in the cloud.
 
 🧰 Tech Stack
+
 ✅ Azure Databricks
+
 ✅ Delta Lake Gen2
+
 ✅ Delta Live Tables (DLT)
+
 ✅ PySpark
+
 ✅ Azure Data Lake Storage (ADLS)
+
 ✅ Power BI
+
 ✅ Role-Based Security and Access Control
+
 🧱 Architecture
+
 Azure Project
 
 🔄 Pipeline Stages
+
 🔐 Data Ingestion
 
 Source: Azure / GitHub
+
 Access: Secured via role-based access control (RBAC)
+
 ⚙️ ETL & Transformation
 
 Tool: Databricks with Delta Lake Gen2
 Code: PySpark notebooks
+
 Real-time and batch pipelines using Delta Live Tables
 📊 Data Modeling
 
